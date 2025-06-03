@@ -4,10 +4,10 @@ Users can clone the repo or download it as a zip file and extract it. Once downl
 
 If there is nothing in the urls.txt file, the script will prompt you to enter a URL to download files:
 
-<img src="/img/EnterURL.png" alt="Screenshot of the prompt asking users to enter a URL" width="250">
+<img src="/img/EnterURL.png" alt="Screenshot of the prompt asking users to enter a URL" width="450">
 
 Click "OK" and the script will check for files on the page. It will then prompt you with "You are about to download files from: _USER-ENTERED EPA URL_. Do you want to continue?"
 
-<img src="/img/WantToContinue.png" alt="Screenshot of the prompt asking users if they want to continue downloading files" width="250">
+<img src="/img/WantToContinue.png" alt="Screenshot of the prompt asking users if they want to continue downloading files" width="450">
 
 Click "Yes" and the script will begin downloading files to a /downloads folder in the same location as the script file.
