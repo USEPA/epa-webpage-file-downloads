@@ -1,0 +1,1 @@
+This repository contains a script which can be used to download documents from EPA webpages. The user will provide the URL for an EPA webpage or add a list of URLs to the urls.txt file. The script will then download all xlsx, xls, pdf, docx, doc, zip, csv files from the page into a /downloads folder in the same folder as the script.
