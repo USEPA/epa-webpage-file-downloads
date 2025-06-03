@@ -11,3 +11,5 @@ Click "OK" and the script will check for files on the page. It will then prompt 
 <img src="/img/WantToContinue.png" alt="Screenshot of the prompt asking users if they want to continue downloading files" width="450">
 
 Click "Yes" and the script will begin downloading files to a /downloads folder in the same location as the script file.
+
+Feel free to reach out to hollerbach.kevin@epa.gov with any questions about this script.
